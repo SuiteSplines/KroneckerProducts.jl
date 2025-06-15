@@ -1,5 +1,3 @@
-using Test, SafeTestsets
-
 @safetestset "factorizations" begin
 
 using KroneckerProducts, LinearAlgebra

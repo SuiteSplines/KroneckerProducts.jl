@@ -1,15 +1,16 @@
 using Test
+using SafeTestsets
 
 tests = [
-            "base",
-            "kroneckerproduct",
-            "kroneckersum",
-            "kronprops",
-            "factorizations",
-            "contract",
-            "boxproduct",
-            "boxprops"
-        ]
+    "base",
+    "kroneckerproduct",
+    "kroneckersum",
+    "kronprops",
+    "factorizations",
+    "contract",
+    "boxproduct",
+    "boxprops"
+]
 
 @testset "KroneckerProducts" begin
     for t in tests

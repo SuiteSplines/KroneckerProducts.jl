@@ -1,5 +1,3 @@
-using Test, SafeTestsets
-
 @safetestset "Box product identities" begin
 
 using KroneckerProducts

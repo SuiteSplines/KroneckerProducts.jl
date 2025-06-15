@@ -1,5 +1,3 @@
-using Test, SafeTestsets
-
 @safetestset "Base utilities" begin
 
 using KroneckerProducts, LinearAlgebra

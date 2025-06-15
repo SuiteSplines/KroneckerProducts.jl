@@ -1,5 +1,3 @@
-using Test, Revise, SafeTestsets
-
 @safetestset "KroneckerProduct base" begin
 
 using KroneckerProducts, LinearAlgebra

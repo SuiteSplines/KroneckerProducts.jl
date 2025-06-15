@@ -1,5 +1,3 @@
-using Test, Revise, SafeTestsets
-
 @safetestset "KroneckerSum" begin
 
 using KroneckerProducts, LinearAlgebra
