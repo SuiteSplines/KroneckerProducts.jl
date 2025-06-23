@@ -1,7 +1,7 @@
 name = "KroneckerProducts"
 uuid = "5766f8de-d509-470a-8420-f491b24ab91b"
 authors = ["René Hiemstra <rrhiemstar@gmail.com>", "Michał Mika <michal@mika.sh>"]
-version = "0.13.0"
+version = "0.13.1"
 
 [deps]
 IgaBase = "9c103fa8-ae55-49f5-92db-ab77803cf2c4"
